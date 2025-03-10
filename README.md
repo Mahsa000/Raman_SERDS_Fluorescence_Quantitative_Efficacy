@@ -60,7 +60,7 @@ An evaluation branch computes ensemble performance metrics. By performing model 
 
 ## Repository Structure
 
-- SERDS_Raman_Simulation_Project/
+- Raman_SERDS_Fluorescence_Quantitative_Efficacy/
   - LICENSE
   - README.md
   - requirements.txt
