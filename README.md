@@ -106,8 +106,8 @@ An evaluation branch computes ensemble performance metrics. By performing model 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/Raman_SERDS_Quantitative_Effecacy.git
-   cd Raman_SERDS_Quantitative_Effecacy
+   git clone https://github.com/your_username/Raman_SERDS_Fluorescence_Quantitative_Efficacy.git
+   cd Raman_SERDS_Fluorescence_Quantitative_Efficacy
    
 2. **Create and Activate a Virtual Environment**
 
